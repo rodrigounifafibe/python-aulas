@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+    <img alt="GoStack" src="https://www.linkapi.solutions/uploads/2019/05/Developer-Experience.gif" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -22,4 +22,6 @@ Você pode utilizar este repositório para consulta dos códigos :rocket:.
 
 ---
 
+<p align="center">
 Prof. Rodrigo Gonçalves Santana :wave: 
+</p>
