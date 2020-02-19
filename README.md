@@ -6,16 +6,16 @@
   CÓDIGO FONTE DAS AULAS
 </h3>
 
-
+<p align="center">
 Bem vindo ao repositório de códigos das aulas de Python. :snake:
-
+</p>
 
 **O Repositório está organizado da seguinte forma:**
 
 
-* **EXEMPLOS** - são os códigos desenvolvidos no decorrer da aula para explicar novos recursos do Python.
-* **TASKS** - resolução das atividades propostas no decorrer da aula que tem como objetivo praticarmos juntos.
-* **CHALLENGE** - resolução dos desafios que tem como objetivo a resolução e solução de desafios.
+* **EXEMPLOS** [:space_invader:]: são os códigos desenvolvidos no decorrer da aula para explicar novos recursos do Python.
+* **TASKS** [:dart:]: resolução das atividades propostas no decorrer da aula que tem como objetivo praticarmos juntos.
+* **CHALLENGE** [:trophy:]: resolução dos desafios que tem como objetivo a resolução e solução de desafios.
 
 
 Você pode utilizar este repositório para consulta dos códigos :rocket:. 
