@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://www.linkapi.solutions/uploads/2019/05/Developer-Experience.gif" width="200px" />
+    <img alt="GoStack" src="https://www.linkapi.solutions/uploads/2019/05/Developer-Experience.gif" width="300px" />
 </h1>
 
 <h3 align="center">
