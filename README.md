@@ -15,7 +15,7 @@ Bem vindo ao repositório de códigos das aulas de Python. :snake:
 
 * :space_invader: # **STEPS** : são os códigos desenvolvidos no decorrer da aula para explicar novos recursos passo à passo.
 * :dart: # **TASKS**: resolução das atividades propostas no decorrer da aula que tem como objetivo praticarmos juntos.
-* :trophy: # **CHALLENGES**: resolução dos desafios que tem como objetivo a resolução e solução de desafios.
+* :trophy: # **CHALLENGE**: resolução dos desafios que tem como objetivo a resolução e solução de desafios.
 
 
 Você pode utilizar este repositório para consulta dos códigos :rocket:. 
